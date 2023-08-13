@@ -6,7 +6,7 @@
 <!-- [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://xlbd.me) -->
 
 - 🔭 I'm a fullstack developer
-- 🌱 I’m currently learning Svelte, It's awesome!
+- 🌱 I’m currently learning AI and Machine Learning, Lots of Math 🤯
 - 👯 I'm always eager to learn and share my learning
 - 🥅 2023 Goals: Create more projects
 
