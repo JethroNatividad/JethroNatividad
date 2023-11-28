@@ -38,7 +38,7 @@
 [![Top Langs](https://github-readme-stats-own-five.vercel.app/api/top-langs/?username=JethroNatividad&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/JethroNatividad/github-readme-stats)
 <br />
 
-[![Jethro's GitHub stats](https://github-readme-stats-own-five.vercel.app/api?username=JethroNatividad&show_icons=true&theme=tokyonight)](https://github.com/JethroNatividad/github-readme-stats)
+[![Jethro's GitHub stats](https://github-readme-stats-own-git-main-jethronatividad.vercel.app/api?username=JethroNatividad&show_icons=true&theme=tokyonight)](https://github.com/JethroNatividad/github-readme-stats)
 
 
 
