@@ -35,7 +35,7 @@
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logoColor=white&color=2bbc8a)
 
 ### Github stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JethroNatividad&count_private=true&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/JethroNatividad/github-readme-stats)
+[![Top Langs](https://github-readme-stats-own-five.vercel.app/api/top-langs/?username=JethroNatividad&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/JethroNatividad/github-readme-stats)
 <br />
 
 [![Jethro's GitHub stats](https://github-readme-stats-own-five.vercel.app/api?username=JethroNatividad&show_icons=true&theme=tokyonight)](https://github.com/JethroNatividad/github-readme-stats)
