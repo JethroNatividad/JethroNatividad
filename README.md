@@ -34,14 +34,3 @@
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logoColor=white&color=2bbc8a)
 
-### Github stats:
-[![Top Langs](https://github-readme-stats-own-five.vercel.app/api/top-langs/?username=JethroNatividad&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/JethroNatividad/github-readme-stats)
-<br />
-
-[![Jethro's GitHub stats](https://github-readme-stats-own-git-main-jethronatividad.vercel.app/api?username=JethroNatividad&show_icons=true&theme=tokyonight&exclude_repo=)](https://github.com/JethroNatividad/github-readme-stats)
-
-[![Jethro's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JethroNatividad)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
