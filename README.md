@@ -6,9 +6,9 @@
 <!-- [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://xlbd.me) -->
 
 - 🔭 I'm a fullstack web developer
-- 🌱 I’m currently learning game development as a hobby
+- 🌱 I’m currently learning mobile app development
 - 👯 I'm always eager to learn and share my learning
-- 🥅 2025 Goals: Make a cool game
+- 🥅 2026 Goals: make a mobile app
 
 
 ### Languages and Tools:
