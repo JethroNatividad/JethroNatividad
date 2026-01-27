@@ -2,7 +2,7 @@
 <!-- [![](https://img.shields.io/badge/-@jethro-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/xiaoluoboding) -->
 [![](https://img.shields.io/badge/-@JethroNatividad-%23181717?style=flat-square&logo=github)](https://github.com/JethroNatividad)
 [![](https://img.shields.io/badge/-@JethroNatividad-fff?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/19807905/jethro)
-[![](https://img.shields.io/badge/-@JethroNatividad-9cf?style=flat-square&logo=facebook)](https://www.facebook.com/bfasdfhsdfadfas/)
+[![](https://img.shields.io/badge/-@JethroNatividad-9cf?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jethro-natividad/)
 <!-- [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://xlbd.me) -->
 
 - 🔭 I'm a fullstack web developer
