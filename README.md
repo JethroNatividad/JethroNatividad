@@ -8,7 +8,6 @@
 - 🔭 I'm a fullstack web developer
 - 🌱 I’m currently learning mobile app development
 - 👯 I'm always eager to learn and share my learning
-- 🥅 2026 Goals: make a mobile app
 
 
 ### Languages and Tools:
